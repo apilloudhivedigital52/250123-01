@@ -7,11 +7,6 @@
       "lang": "ts",
       "fileLocks": [
         {
-          "assetId": "dsXmC7cD6fb4ndC33mPxdf",
-          "type": "projectCss",
-          "checksum": "7754e88005e8f36861b6d30ef69df807"
-        },
-        {
           "type": "renderModule",
           "assetId": "TYdc7-zNQ1Gg",
           "checksum": "acc47e864715ea4dca2312101cd2737a"
@@ -20,6 +15,11 @@
           "type": "cssRules",
           "assetId": "TYdc7-zNQ1Gg",
           "checksum": "acc47e864715ea4dca2312101cd2737a"
+        },
+        {
+          "assetId": "dsXmC7cD6fb4ndC33mPxdf",
+          "type": "projectCss",
+          "checksum": "7754e88005e8f36861b6d30ef69df807"
         }
       ],
       "codegenVersion": "0.0.1"
